@@ -1,0 +1,73 @@
+.nav-item {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.navbar-brand {
+    padding-left: 50px;
+}
+
+.navbar{
+    background-color: lightblue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.navbar-section {
+    background-color: blue;
+}
+
+.main-image {
+    width: 400px; 
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-image{
+    width: 800px; 
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-section {
+    background-color: red;
+    color: #fff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.about-section {
+    background-color: yellow;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.contact-section{
+    background-image: url("/images/contact.jpg");
+    height: 200px;
+    color: #fff;
+}
+
+.contacts{
+    font-size: 30px;
+}
+
+.icons{
+    font-size: 60px;
+}
+
+.about-heading{
+    text-align: center;
+}
+
+#contact-title{
+    text-align: center;
+}
+
+#title {
+    padding-top: 100px;
+}
